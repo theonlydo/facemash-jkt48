@@ -1,6 +1,4 @@
 <?php
-// copyright diskusiku.com 2012
-
 function Ekspektasi($R1, $R2) {
 	$Q1 = exp(($R1/400)*log(10));
 	$Q2 = exp(($R2/400)*log(10));
